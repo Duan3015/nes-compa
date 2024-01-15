@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# NestJS build output
+dist/
+
+# NestJS configuration
+nest-cli.json
+
+# NestJS logs
+logs/
+
+# NestJS environment file
+.env
+
+# TypeScript configuration
+tsconfig*.json
+
+# VSCode settings
+.vscode/
+
+# Jest test results
+test-results/
+
+# NestJS package manager lock files
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
